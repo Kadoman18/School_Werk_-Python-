@@ -1,0 +1,14 @@
+F Strings
+
+F strings are freaking fantastic. An f string is a string that is prefixed with
+an f (ex. f'string goes here') and the reason this is fantastic is that when you
+are using an f string you are enabled to use curly brackets to insert variables
+into your string to be printed out. So lets say I had a variable called addition
+that took two inputs (lets call them number1 and number2) and added them together.
+This is a simple example where an f string can shine, If I were to write a line
+after the inputs that read:
+"print(f'The sum of {number1} and {number2} is {number1 + number2}.')"
+Then for whatever numbers you put in in those first two input 
+prompts (lets say 5 and 7), the console would print "The sum of 5 and 7 is 12". 
+F strings allow you to use variables IN strings in a way that doesnt require
+any convoluted pluses or commas, it helps keep code readable.
