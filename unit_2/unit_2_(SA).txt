@@ -1,0 +1,14 @@
+List vs Tuple
+
+Ok. So this is going to be tricky to get to 150 words but I will do it haha (excluding this bit).
+A list is a collection of variables that maintains its order but is mutable. This means that you
+can call an index and every single time it will return the same variable from your list so long 
+as you, dont change it (maintains its order), however, you do have the OPTION to change the
+variables in your list. Lists are made by using square brackets [] (which are also be used to
+make a dictionary). A tuple is similar to a list in that it also maintains its order, however,
+tuples are immutable. This means that once you declare a variable in your tuple, you can not
+change it. Because of this, tuples are good for things like city names, distances, conversions,
+etc. Things you will never need to change. In most situations, I feel, a list is perfectly fine
+to be used, so long as you know that the objects are mutable and are careful not to do so
+unintentionally, but like I said, if you are making a collection of variables that will not
+need to be changed, A tuple is what should be used.
