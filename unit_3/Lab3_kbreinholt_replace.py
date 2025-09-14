@@ -1,7 +1,10 @@
 """
+Lab3_kbreinholt_replace.py
+Kaden Breinholt
 Challenge: Import the file from project 2, do not copy and paste it.
-Replace one of the string objects from the camping list with “binoculars”.
-Print the result.
+        Replace one of the string objects from the camping list with “binoculars”.
+        Print the result.
+Sun. Sept. 14th
 """
 '''
 I know I should be importing project 2 but I am really trying to do this more

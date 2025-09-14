@@ -1,6 +1,9 @@
 """
+Lab3_kbreinholt_add.py
+Kaden Breinholt
 Challenge: Import the file from project 1, do not copy and paste it.
-Append 5 more items to the list.  Print the result.
+        Append 5 more items to the list.  Print the result.
+Sun. Sept. 14th
 """
 
 import Lab3_kbreinholt_list  as file

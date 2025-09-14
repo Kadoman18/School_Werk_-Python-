@@ -1,8 +1,11 @@
 """
+Lab3_kbreinholt_list.py
+Kaden Breinholt
 Challenge: You plan to go camping and packing the car.
-Create a list of strings that are items you’re taking with you, for example
-“tent poles”. Print the number of items you have in your car. You will need
-a lot of things so include 10 items. Print the sorted list.
+        Create a list of strings that are items you’re taking with you, for example
+        “tent poles”. Print the number of items you have in your car. You will need
+        a lot of things so include 10 items. Print the sorted list.
+Sun. Sept. 14th
 """
 import functions as function
 camping_items = [

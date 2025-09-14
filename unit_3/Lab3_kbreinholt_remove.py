@@ -1,6 +1,9 @@
 """
+Lab3_kbreinholt_remove.py
+Kaden Breinholt
 Challenge: Import the file from project 3, do not copy and paste it.
-You don’t have binoculars. So, remove that object from the camping list. Print the result.
+        You don’t have binoculars. So, remove that object from the camping list. Print the result.
+Sun. Sept. 14th
 """
 '''
 Again, Trying to do this as fun and complex as I can to challenge myself so I am importing from project 1.
