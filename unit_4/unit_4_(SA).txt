@@ -13,4 +13,5 @@ reasons I have found in my 'hobbyist' research, are less important, such as: cle
 of programmers have said that when they get past a certain number of indents, they start to feel
 like their code looks icky. I lastly will talk about system resources. From what I understand,
 which is not much at all, if statements are more resource intensive than just simple declarations.
-So when possible, nesting if statements is reccomended simply for simplicity, and resource managment.
+So when possible, avoiding nesting if statements is reccomended simply for simplicity, and
+resource managment.
