@@ -1,0 +1,16 @@
+It is possible to nest if conditions inside other if conditions.
+Why should you limit how deeply you nest if sequences?
+Search the internet for arguments.
+
+I have watched a lot of videos about this personally and think I should be able to answer
+this on my own but will do research afterwards regardless. From what I understand, if
+statements, in any languange, can be confusing. The nature of nested if statements expecially.
+So as a programmer, it is important that we keep our code readable and maintainable. If someone
+else was looking at my code and found a 6 deep nested if statement, they would probably have
+a difficult time understanding the nature of the conditions (especially if there is math involved).
+And so, reason one is: readability/maintainance. Easy to read code is easy to upkeep. The other
+reasons I have found in my 'hobbyist' research, are less important, such as: cleanliness. A lot
+of programmers have said that when they get past a certain number of indents, they start to feel
+like their code looks icky. I lastly will talk about system resources. From what I understand,
+which is not much at all, if statements are more resource intensive than just simple declarations.
+So when possible, nesting if statements is reccomended simply for simplicity, and resource managment.

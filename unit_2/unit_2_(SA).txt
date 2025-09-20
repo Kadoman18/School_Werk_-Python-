@@ -2,7 +2,7 @@ List vs Tuple
 
 Ok. So this is going to be tricky to get to 150 words but I will do it haha (excluding this bit).
 A list is a collection of variables that maintains its order but is mutable. This means that you
-can call an index and every single time it will return the same variable from your list so long 
+can call an index and every single time it will return the same variable from your list so long
 as you, dont change it (maintains its order), however, you do have the OPTION to change the
 variables in your list. Lists are made by using square brackets [] (which are also be used to
 make a dictionary). A tuple is similar to a list in that it also maintains its order, however,
