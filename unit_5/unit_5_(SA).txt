@@ -1,0 +1,20 @@
+What is the difference between dictionaries and lists?
+
+        The difference between dictionaries and lists is pretty simple, but I'm going to turn
+into a paragraph. A list is an indexable, ordered.. well.. list of items. It is mutable meaning
+that it can be changed and altered. A dictionary is similar in that it is an ordered
+list of items, however, these items are what is called a 'key: value' pair. This means that
+while you would normally call an item from a list or tuple with an index (the number associated
+with the 'slot' the item is in) for dictionaries, you call the item or 'value' with its 'key'.
+For example, I could have a list of the first 3 letters of the alphabet:
+
+first_three = ["A", "B", "C"]
+
+And I would call something like "B" using its index, which in python, which starts at 0 not 1,
+would be 1, so I would have to use the value first_three[1], but if I wanted to use a
+dictionary to do the same thing I could do that like this:
+
+first_three = {1: "A", 2: "B", 3: "C"}
+
+doing so like this I can now call "B" usint its 'key' which is now '2', Which I could also set to
+be something like 'two' or 'second'.
