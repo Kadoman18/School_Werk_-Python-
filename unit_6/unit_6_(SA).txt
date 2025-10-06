@@ -1,0 +1,7 @@
+Must you use the loop variable in the body of a “for” loop?
+
+Absolutely Not. Thats the short answer haha, The longer version is interesting though, The cool
+thing about for loops is that you can initialize a temporary variable meant to act as a loop
+variable. This variable can be initialized, have a specified exit value, and an equation to
+iterate/increment/decrement it. I should have done this earlier and I am tired so I will take
+the loss on the grade for this one. But I am having lots of fun in the class. Thank you.
